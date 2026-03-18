@@ -75,11 +75,11 @@ drug-target-interaction-gnn/
 ## Progress log
 
 - [x] Project defined and documented
-- [ ] Data exploration
-- [ ] Molecule graph construction
-- [ ] GAT model training
-- [ ] Evaluation and results
-- [ ] Visualization of molecular attention
+- [x] Data exploration
+- [x] Molecule graph construction
+- [x] GAT model training — AUC 0.7630
+- [x] Evaluation and results
+- [x] Molecular saliency visualization
 
 ---
 
