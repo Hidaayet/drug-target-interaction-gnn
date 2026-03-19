@@ -81,7 +81,7 @@ drug-target-interaction-gnn/
 
 ---
 ## 📄 Documentation
-For a detailed description of the system design, signal processing pipeline, and performance results, see the [full project report](docs/DTI_GNN_Report .pdf)
+For a detailed description of the system design, signal processing pipeline, and performance results, see the [full project report](docs/DTI_GNN_Report.pdf)
 
 ---
 
