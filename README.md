@@ -83,6 +83,7 @@ drug-target-interaction-gnn/
 ##  Full Project Report
 
 For detailed methodology, architecture, and results, see the **[complete report](docs/DTI_GNN_Report (1) (Réparé).pdf)**.
+
 ---
 
 ## Author
