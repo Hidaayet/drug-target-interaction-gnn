@@ -80,8 +80,8 @@ drug-target-interaction-gnn/
 - [x] Molecular saliency visualization
 
 ---
-##  Full Project Report
-For detailed methodology, architecture, and results, see the **[full project report](docs\DTI_GNN_Report.pdf).**
+## 📄 Documentation
+For a detailed description of the system design, signal processing pipeline, and performance results, see the [full project report](docs/DTI_GNN_Report .pdf)
 
 ---
 
