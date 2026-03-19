@@ -5,8 +5,6 @@ to a disease-causing protein target — the core computational problem in
 drug discovery. Molecules are represented as graphs where atoms are nodes
 and chemical bonds are edges.
 
-> 🚧 Project status: In progress — Phase 1 (research & setup)
-
 ---
 
 ## What it does
@@ -82,7 +80,7 @@ drug-target-interaction-gnn/
 - [x] Molecular saliency visualization
 
 ---
-## 📄 Full Project Report
+##  Full Project Report
 
 For detailed methodology, architecture, and results, see the **[complete report](docs/DTI_GNN_Report (1) (Réparé).pdf)**.
 ---
